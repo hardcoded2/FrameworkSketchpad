@@ -1,0 +1,14 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+    Substance (0.0.10-beta)
+    Substance.Collections (0.0.10-beta)
+      Substance (>= 0.0.10-beta)
+    Substance.Collections.Generic (0.0.10-beta)
+      Substance (>= 0.0.10-beta)
+      Substance.Collections (>= 0.0.10-beta)
+    Substance.Collections.Immutable (0.0.10-beta)
+      Substance (>= 0.0.10-beta)
+      Substance.Collections (>= 0.0.10-beta)
+      Substance.Collections.Generic (>= 0.0.10-beta)
+    Wooga.Lambda (0.7)
+      Substance.Collections.Immutable (>= 0.0.0-beta)

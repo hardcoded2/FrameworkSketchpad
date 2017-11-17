@@ -103,3 +103,8 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+mainproject/packages
+**/.paket/paket.exe
+**/.paket/paket.unity3d.exe
+**/paket-files
