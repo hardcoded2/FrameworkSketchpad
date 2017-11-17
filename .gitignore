@@ -1,3 +1,5 @@
+
+
 # ---------------[ Unity generated ]------------------ #
 Temp/
 #Obj/
@@ -104,6 +106,9 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+#paket
+Paket.Unity3D
+Paket.Unity3D.meta
 mainproject/packages
 **/.paket/paket.exe
 **/.paket/paket.unity3d.exe
